@@ -32,7 +32,6 @@ public class ApplyBorrowMoneyActivity extends BaseActivity implements OnClickLis
 
     private boolean processFlag = true; //默认可以点击
 
-
     private EditText title_teTextView = null;
     private EditText amount_Editor = null;
     private EditText ed_money = null;
